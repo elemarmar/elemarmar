@@ -1,11 +1,11 @@
 ![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/image-20200726173950316.png)
 
-🔭 **I'm currently...**
+### 🔭 I'm currently...
 
 - **undertaking a Front End course** where I'm a very active member, providing solutions and support to my classmates in the common repository that can be found [here](https://github.com/adalab/soluciones-alumnas-j). I've also created [another repository](https://github.com/elemarmar/adalab-promo-j-ejercicios) containing those exercises but organised in a different way.
 - **contributing to the translation of javascript.info** to Spanish which repository can be found [here](https://github.com/javascript-tutorial/es.javascript.info). 
 
-🌱 **Currently learning:**
+### 🌱 Currently learning:
 
 - Angular
 - React
@@ -13,7 +13,7 @@
 - Node.js
 - Databases (MongoDB & SQL)
 
-⚡ **Random facts**:
+### ⚡ Random facts:
 
 I'm very interested in **learning languages** (not only computer languages). I speak Spanish, English, German and French and hae some notions of Korean and Japanese. Also, I'm currently working on some development projects to help users learn languages.
 
@@ -41,8 +41,8 @@ I'm very interested in **learning languages** (not only computer languages). I s
 
 <table>
     <colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 50%;">
+       <col span="1" width="400px">
+       <col span="1" width="400px">
     </colgroup>
     <tr>
     <td><strong>Learning</strong></td>
