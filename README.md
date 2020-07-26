@@ -1,29 +1,67 @@
+![image-20200726173950316](./images/image-20200726173950316.png)
+
+> 🔭 **I'm currently...**
+>
+> - **undertaking a Front End course** where I'm a very active member, providing solutions and support to my classmates in the common repository that can be found [here](https://github.com/adalab/soluciones-alumnas-j). I've also created [another repository](https://github.com/elemarmar/adalab-promo-j-ejercicios) containing those exercises but organised in a different way.
+> - **contributing to the translation of javascript.info** to Spanish which repository can be found [here](https://github.com/javascript-tutorial/es.javascript.info). 
+
+> 🌱 **Currently learning:**
+>
+> - Angular
+> - React
+> - JavaScript
+> - Node.js
+> - Databases (MongoDB & SQL)
+
+⚡ **Random facts**:
+
+I'm very interested in **learning languages** (not only computer languages). I speak Spanish, English, German and French and hae some notions of Korean and Japanese. Also, I'm currently working on some development projects to help users learn languages.
+
+### Overview of my Repositories
+
+<table>
+      <colgroup>
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
+    </colgroup>
+  <tr>
+  	<td><strong>Personal projects</strong></td>
+    <td><strong>Language related</strong></td>
+  </tr>
+  <tr>
+  	<td>
+    	<a href="https://github.com/elemarmar/guilty-cinephiles">🍿 Online platform for exploring and organizing films and series</a>
+    </td>
+    <td> 
+      <a href="https://github.com/elemarmar/my-anki-collection">🏷 Anki templates for learning languages</a>
+    </td>
+  </tr>
+ </table>
 
 
-<div style="border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 5px 5px #eee">
-  <div class="img-container" style="display: inline-block; vertical-align: top; padding-top: 10px;">
-    <img src="./images/fox-welcome.gif" width="90px">
-  </div>
-	  <div class="title-container" style="display: inline-block; width: 400px;">
-    <h3 style="margin-bottom: 0;">
-      Hi, I'm a Front End Developer
-    </h3>
-    <p>
-      <img style="text-align: left; margin-left: 0;" src="./images/image-20200725233247705.png" width="250px">
-    </p>
-  </div>
-  <p style="text-align: right; padding-right: 20px; margin: 0; margin-bottom: 10px;">
-    <img style="margin-right: 0; opacity: .8;" src="./images/image-20200725233600804.png" width="60px">
-  </p>
-</div>
 
+<table>
+    <colgroup>
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
+    </colgroup>
+    <tr>
+    <td><strong>Learning</strong></td>
+    <td><strong>Others</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/elemarmar/burger-builder-app">🍔 Burger Builder App (React)</a>
+      <a href="https://github.com/elemarmar/adalab-promo-j-ejercicios">📝 Solutions to Adalab Promo-J exercises</a>
+    </td>
+    <td>
+    	<a href="https://github.com/Adalab/project-promo-j-module-1-team-4">			📲 Contact website with form</a>
+          <a href="https://github.com/Adalab/project-promo-j-module-2-team-1-morning">🃏 Create business cards</a>
+    </td>
+  </tr>
+---
 
+### Reach me !
 
-  
-
-<div class="currently" style="border-left: solid 10px #eee">
-  <p style="padding-left: 20px">
-    I'm currently doing this that and bla bla
-  </p>
-</div>
+I'm **always** looking for new projects and opportunities to learn more. Feel free to contact me by email: <a href="mailto:elemartinezmarin@protonmail.com">elemartinezmarin@protonmail.com.</a>
 
