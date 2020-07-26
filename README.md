@@ -1,4 +1,4 @@
-![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/image-20200726173950316.png)
+![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/header.png)
 
 ### 🔭 I'm currently...
 
