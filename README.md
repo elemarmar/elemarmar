@@ -1,4 +1,6 @@
-![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/image-20200726173950316.png)
+# Hello, I'm Elena 👋🏻 👩🏻‍💻
+
+![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/header.png)
 
 ### 🔭 I'm currently...
 
@@ -36,19 +38,11 @@ I'm very interested in **learning languages** (not only computer languages). I s
       <a href="https://github.com/elemarmar/my-anki-collection">🏷 Anki templates for learning languages</a>
      </td>
   </tr>
-</table>
-
-
-<table>
-    <colgroup>
-       <col span="1" width="400px">
-       <col span="1" width="400px">
-    </colgroup>
-    <tr>
+        <tr>
     <td><strong>Learning</strong></td>
     <td><strong>Others</strong></td>
   </tr>
-  <tr>
+     <tr>
     <td>
       <a href="https://github.com/elemarmar/burger-builder-app">🍔 Burger Builder App (React)</a>
     </td>
@@ -63,6 +57,8 @@ I'm very interested in **learning languages** (not only computer languages). I s
         <td> <a href="https://github.com/Adalab/project-promo-j-module-2-team-1-morning">🃏 Create business cards</a> </td>
   </tr>
 </table>
+
+
 
 ---
 
