@@ -1,6 +1,6 @@
 # Hello, I'm Elena 👋🏻 👩🏻‍💻
 
-![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/header.png)
+![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/foxintro.gif)
 
 ### 🔭 I'm currently...
 
