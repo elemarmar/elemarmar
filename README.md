@@ -1,13 +1,20 @@
 # Hello, I'm Elena 👋🏻 👩🏻‍💻
 
-![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/foxintro.gif)
+![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/updatedheader.gif)
 
-### 🔭 I'm currently...
+
+<img src="https://github.com/elemarmar/elemarmar/blob/master/images/penguin.gif" width="300px">
+
+<img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px">
 
 - **undertaking a Front End course** where I'm a very active member, providing solutions and support to my classmates in the common repository that can be found [here](https://github.com/adalab/soluciones-alumnas-j). I've also created [another repository](https://github.com/elemarmar/adalab-promo-j-ejercicios) containing those exercises but organised in a different way.
 - **contributing to the translation of javascript.info** to Spanish which repository can be found [here](https://github.com/javascript-tutorial/es.javascript.info). 
 
-### 🌱 Currently learning:
+</br>
+
+<img src="https://github.com/elemarmar/elemarmar/blob/master/images/read.gif" width="300px">
+
+<img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px">
 
 - Angular
 - React
@@ -19,7 +26,7 @@
 
 I'm very interested in **learning languages** (not only computer languages). I speak Spanish, English, German and French and hae some notions of Korean and Japanese. Also, I'm currently working on some development projects to help users learn languages.
 
-### Overview of my Repositories
+<img src="https://github.com/elemarmar/elemarmar/blob/master/images/code.gif" width="300px">
 
 <table>
     <colgroup>
