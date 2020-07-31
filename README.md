@@ -64,5 +64,7 @@ I'm very interested in **learning languages** (not only computer languages). I s
 
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/contact.gif" width="300px">
 
+<img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px">
+
 I'm **always** looking for new projects and opportunities to learn more. Feel free to contact me by email: <a href="mailto:elemartinezmarin@protonmail.com">elemartinezmarin@protonmail.com.</a>
 
