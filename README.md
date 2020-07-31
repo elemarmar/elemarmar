@@ -3,11 +3,15 @@
 ![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/updatedheader.gif)
 
 
+
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/about.png" width="300px">
 
-<img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px">
+<img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px" height="60px">
 
-I'm very interested in **learning languages** (not only computer languages). I speak Spanish, English, German and French and hae some notions of Korean and Japanese. Also, I'm currently working on some development projects to help users learn languages.
+I'm very interested in **learning languages** (not only computer languages). I speak Spanish, English, German and French and have some notions of Korean and Japanese. Also, I'm currently working on some development projects to help users learn languages.
+
+</br>
+
 
 
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/penguin.gif" width="300px">
@@ -17,14 +21,15 @@ I'm very interested in **learning languages** (not only computer languages). I s
 - **undertaking a Front End course** where I'm a very active member, providing solutions and support to my classmates in the common repository that can be found [here](https://github.com/adalab/soluciones-alumnas-j). I've also created [another repository](https://github.com/elemarmar/adalab-promo-j-ejercicios) containing those exercises but organised in a different way.
 - **contributing to the translation of javascript.info** to Spanish which repository can be found [here](https://github.com/javascript-tutorial/es.javascript.info). 
 
+
 </br>
 
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/read.gif" width="300px">
 
 <img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px">
 
-- Angular
 - React
+- React Native
 - JavaScript
 - Node.js
 - Databases (MongoDB & SQL)
