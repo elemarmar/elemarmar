@@ -3,6 +3,13 @@
 ![image-20200726173950316](https://github.com/elemarmar/elemarmar/blob/master/images/updatedheader.gif)
 
 
+<img src="https://github.com/elemarmar/elemarmar/blob/master/images/about.png" width="300px">
+
+<img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px">
+
+I'm very interested in **learning languages** (not only computer languages). I speak Spanish, English, German and French and hae some notions of Korean and Japanese. Also, I'm currently working on some development projects to help users learn languages.
+
+
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/penguin.gif" width="300px">
 
 <img align="left" src="https://github.com/elemarmar/elemarmar/blob/master/images/margin.png" width="70px">
@@ -22,9 +29,6 @@
 - Node.js
 - Databases (MongoDB & SQL)
 
-### ⚡ Random facts:
-
-I'm very interested in **learning languages** (not only computer languages). I speak Spanish, English, German and French and hae some notions of Korean and Japanese. Also, I'm currently working on some development projects to help users learn languages.
 
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/code.gif" width="300px">
 
