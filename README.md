@@ -34,7 +34,7 @@ I'm very interested in **learning languages** (not only computer languages). I s
 - Node.js
 - Databases (MongoDB & SQL)
 
-
+</br>
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/code.gif" width="300px">
 
 <table>
@@ -76,7 +76,7 @@ I'm very interested in **learning languages** (not only computer languages). I s
 
 
 
----
+</br>
 
 <img src="https://github.com/elemarmar/elemarmar/blob/master/images/contact.gif" width="300px">
 
